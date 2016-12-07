@@ -1,0 +1,14 @@
+{
+  "name": "irregardless-word",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MustWin/irregardless-word.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
